@@ -87,4 +87,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact:
 --------
-For questions or suggestions, please contact [Your Name] at your.email@example.com.
+For questions or suggestions, please contact Anuj Pokharel at anujpokharel2@gmail.com
